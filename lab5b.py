@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: Sohail Alakoozi
+#Author ID: Sohail Alakoozi
 
 #lab5a - reading with 'r'
 def read_file_string(file_name):
